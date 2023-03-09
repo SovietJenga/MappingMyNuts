@@ -3031,10 +3031,6 @@
 /obj/effect/spawner/random/structure/grille,
 /turf/open/floor/plating,
 /area/station/maintenance/port/aft)
-"bbz" = (
-/obj/structure/statue/elder_atmosian,
-/turf/closed/wall,
-/area/station/command/heads_quarters/captain/private)
 "bbO" = (
 /obj/structure/window/reinforced{
 	dir = 1;
@@ -17065,7 +17061,6 @@
 /obj/machinery/camera/directional/east{
 	c_tag = "Captain's Office"
 	},
-/obj/structure/statue/elder_atmosian,
 /turf/open/floor/carpet,
 /area/station/command/heads_quarters/captain/private)
 "gqj" = (
@@ -18418,8 +18413,6 @@
 /obj/structure/table/wood,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/item/clothing/suit/armor/elder_atmosian,
-/obj/item/clothing/head/helmet/elder_atmosian,
 /turf/open/floor/carpet,
 /area/station/command/heads_quarters/captain/private)
 "gPX" = (
@@ -23776,8 +23769,6 @@
 /area/space/nearstation)
 "iFX" = (
 /obj/structure/disposalpipe/segment,
-/obj/structure/table/wood/fancy/red,
-/obj/item/flashlight/flare/candle/infinite,
 /turf/open/floor/carpet,
 /area/station/command/heads_quarters/captain/private)
 "iGj" = (
@@ -26554,11 +26545,6 @@
 	},
 /turf/open/floor/iron/white,
 /area/station/medical/chemistry)
-"jxr" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/statue/elder_atmosian,
-/turf/open/floor/carpet,
-/area/station/command/heads_quarters/captain/private)
 "jxA" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -31417,7 +31403,6 @@
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
 	dir = 1
 	},
-/obj/structure/statue/elder_atmosian,
 /turf/open/floor/carpet,
 /area/station/command/heads_quarters/captain/private)
 "ljF" = (
@@ -31870,12 +31855,6 @@
 	},
 /turf/open/floor/iron,
 /area/station/engineering/main)
-"lqz" = (
-/obj/structure/chair/bronze{
-	dir = 1
-	},
-/turf/open/floor/carpet,
-/area/station/command/heads_quarters/captain/private)
 "lqC" = (
 /obj/machinery/light/small/directional/north,
 /obj/effect/landmark/blobstart,
@@ -33745,8 +33724,6 @@
 /obj/structure/table/wood,
 /obj/item/reagent_containers/cup/glass/shaker,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/item/clothing/suit/armor/elder_atmosian,
-/obj/item/clothing/head/helmet/elder_atmosian,
 /turf/open/floor/carpet,
 /area/station/command/heads_quarters/captain/private)
 "lZV" = (
@@ -34977,14 +34954,6 @@
 	},
 /turf/open/floor/iron/white,
 /area/station/medical/medbay/central)
-"mys" = (
-/obj/structure/chair/bronze,
-/obj/structure/chair/bronze,
-/obj/structure/chair/bronze{
-	dir = 3
-	},
-/turf/open/floor/carpet,
-/area/station/command/heads_quarters/captain/private)
 "myB" = (
 /obj/effect/turf_decal/tile/red,
 /obj/effect/turf_decal/tile/red{
@@ -38924,7 +38893,6 @@
 	pixel_x = 9;
 	pixel_y = -9
 	},
-/obj/structure/statue/elder_atmosian,
 /turf/open/floor/carpet,
 /area/station/command/heads_quarters/captain/private)
 "nOv" = (
@@ -39403,10 +39371,6 @@
 /obj/effect/turf_decal/tile/neutral/fourcorners,
 /turf/open/floor/iron/dark,
 /area/station/ai_monitored/command/nuke_storage)
-"nYG" = (
-/obj/structure/statue/elder_atmosian,
-/turf/open/floor/wood,
-/area/station/command/heads_quarters/captain/private)
 "nYJ" = (
 /obj/structure/lattice,
 /obj/structure/grille/broken,
@@ -55222,10 +55186,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/iron/dark,
 /area/station/service/chapel/office)
-"tvQ" = (
-/obj/structure/sign/poster/contraband/power,
-/turf/closed/wall/r_wall,
-/area/station/command/heads_quarters/captain/private)
 "tvR" = (
 /obj/machinery/door/poddoor/shutters{
 	id = "supplybridge"
@@ -98881,7 +98841,7 @@ pnW
 nOq
 xDa
 vwP
-jxr
+xDa
 xXN
 lSz
 wxk
@@ -99382,9 +99342,9 @@ olw
 ozX
 kON
 vjn
-tvQ
+syo
 qsQ
-mys
+hlD
 iox
 tyY
 eCB
@@ -99898,11 +99858,11 @@ htd
 mRl
 syo
 rUP
-lqz
+hlD
 alg
 rEg
-nYG
-bbz
+uGj
+tyY
 iDh
 csS
 niz
